@@ -1,0 +1,36 @@
+{
+  "name": "gmcts",
+  "version": "0.1.0",
+  "description": "a General purpose Monte Carlo Tree Search (gMCTS)",
+  "main": "index.js",
+  "devDependencies": {
+    "expresso": "0.9.2"
+  },
+  "scripts": {
+    "test": "expresso test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panchishin/gmcts.git"
+  },
+  "keywords": [
+    "MCTS",
+    "algorithm",
+    "genetic MCTS",
+    "gmcts",
+    "machine learning"
+  ],
+  "author": "Anton Panchishin",
+  "license": "Unlicense",
+  "homepage": "https://github.com/panchishin/gmcts",
+  "dependencies": {
+    "npm": "^6.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/panchishin/gmcts/issues"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  }
+}
