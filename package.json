@@ -1,6 +1,6 @@
 {
   "name": "gmcts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a General purpose Monte Carlo Tree Search (gMCTS)",
   "main": "index.js",
   "devDependencies": {
@@ -23,9 +23,7 @@
   "author": "Anton Panchishin",
   "license": "Unlicense",
   "homepage": "https://github.com/panchishin/gmcts",
-  "dependencies": {
-    "npm": "^6.4.0"
-  },
+  "dependencies": {},
   "bugs": {
     "url": "https://github.com/panchishin/gmcts/issues"
   },
