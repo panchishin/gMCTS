@@ -5,7 +5,7 @@
 This implementation of MCTS makes minimal assumptions about your simulation (or game), allowing you
 to focus on making your simulation and have gMCTS do the search.
 
-Section Links : [Construction](#construction) , [Execution](#execution) , [Examples](#example) , [Phenotype](#phenotype) , [FAQ](#faq) , [Related](#related-ai-projects) , and [References](#references)
+Section Links : [Construction](#construction) , [Execution](#execution) , [Examples](#example) , [FAQ](#faq) , [Related](#related-ai-projects) , and [References](#references)
 
 
 # Construction

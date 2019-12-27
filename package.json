@@ -1,6 +1,6 @@
 {
   "name": "gmcts",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a General purpose Monte Carlo Tree Search (gMCTS)",
   "main": "index.js",
   "devDependencies": {
@@ -16,9 +16,11 @@
   "keywords": [
     "MCTS",
     "algorithm",
-    "genetic MCTS",
+    "generic MCTS",
     "gmcts",
-    "machine learning"
+    "machine learning",
+    "AI",
+    "examples"
   ],
   "author": "Anton Panchishin",
   "license": "Unlicense",
